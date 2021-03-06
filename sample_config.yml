@@ -2,12 +2,12 @@
 # Please edit this line to "not_sample_anymore" to make the bot run
 is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
-bot_token: "Your bot token"
+bot_token: "1685569416:AAFeheEEZUSmCmAPuVOXGG9QPJ28s-GfAGc"
 api_key: ''
 api_hash: ''
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-message_dump: "CHAT ID"
+owner_id: 1528880872
+owner_username: "@MarshalRocky"
+message_dump: "-569173405"
 load: []
 no_load: []
 strict_antispam: False
@@ -18,7 +18,7 @@ weather_api: ''
 lastfm_api_key: ''
 
 # Database
-database_url: "postgres://username:password@host:5432/database_name"
+database_url: "postgres://vwiiwrdqtlydyi:8446d885ad8a1fd598ad114db90d668d5376503e2e18ee34173d19aa101d5c03@ec2-54-205-61-191.compute-1.amazonaws.com:5432/df04l4ta6fpl43"
 
 # Permission
 sudo_users: []
